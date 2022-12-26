@@ -1,3 +1,3 @@
 # git_test
-play repo for top
+play repo for The Odin Project
 Hello Odin!
